@@ -1,0 +1,5 @@
+- This project computes the relative frequencies of words in a text
+- The implementation assumes the input format format example given in the input/input.txt file
+- The Relative frequencies in the output are expressed in percentages, for example
+	- in both stripes and hybrid approach: 56 {(12,40),(13,60)} means 12 occured 40% of the time with 56, while 13 occured 60% of the time
+	- in pairs approach: (12,50) 60    means 50 occured 60 percent of the time with 12
